@@ -6,3 +6,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloagrizzi&hide=contribs,prs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniloagrizzi=github-readme-stats)](https://github.com/daniloagrizzi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloagrizzi)](https://github.com/daniloagrizzi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloagrizzi&show_icons=true&theme=radical)
